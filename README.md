@@ -1,6 +1,6 @@
 # Latenz
 
-**TODO: Add description**
+**Minimal Plug based elixir prototyp that returns a json**
 
 ## Installation
 
